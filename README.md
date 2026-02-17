@@ -3,7 +3,7 @@
 
 ---
 
-![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/NyxGenesy/Ariadne/latest/Ariadne.v1.0.zip?style=for-the-badge&label=Download%20Ariadne%20v1.0&color=Gold&link=https%3A%2F%2Fgithub.com%2FNyxGenesy%2FAriadne%2Freleases%2Fdownload%2Fv1.0%2FAriadne.v1.0.zip&link=https%3A%2F%2Fgithub.com%2FNyxGenesy%2FAriadne%2Freleases%2Fdownload%2Fv1.0%2FAriadne.v1.0.zip)
+[![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/NyxGenesy/Ariadne/latest/Ariadne.v1.0.zip?style=for-the-badge&label=Download%20Ariadne%20v1.0&color=Gold&link=https%3A%2F%2Fgithub.com%2FNyxGenesy%2FAriadne%2Freleases%2Fdownload%2Fv1.0%2FAriadne.v1.0.zip&link=https%3A%2F%2Fgithub.com%2FNyxGenesy%2FAriadne%2Freleases%2Fdownload%2Fv1.0%2FAriadne.v1.0.zip)](https://github.com/NyxGenesy/Ariadne/releases/download/v1.0/Ariadne.v1.0.zip)
 
 
 ## 🧭 What is Ariadne?
@@ -78,5 +78,6 @@ Reach out to us at **nyxgenesy@gmail.com** or open an issue in the project repos
 ---
 
 *Crafted with care by NyxGenesy. Let Ariadne guide your path.*
+
 
 
