@@ -2,6 +2,8 @@
 © 2025 NyxGenesy. All rights reserved.
 
 ---
+![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/NyxGenesy/Ariadne/latest/Ariadne.v1.0.zip?style=for-the-badge&label=Download%20Ariadne%20v1.0&color=Gold)
+
 
 ## 🧭 What is Ariadne?
 
@@ -75,3 +77,4 @@ Reach out to us at **nyxgenesy@gmail.com** or open an issue in the project repos
 ---
 
 *Crafted with care by NyxGenesy. Let Ariadne guide your path.*
+
