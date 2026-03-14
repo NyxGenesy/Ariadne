@@ -1,5 +1,5 @@
 # Ariadne v1.0  
-© 2025 NyxGenesy. All rights reserved.
+© 2026 NyxGenesy. All rights reserved.
 
 ---
 
